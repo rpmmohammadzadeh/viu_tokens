@@ -1,0 +1,186 @@
+{
+  "Color": {
+    "Primary": {
+      "Sky–500": {
+        "value": "#3a98e5",
+        "type": "color",
+        "description": "Accessibility: n/a\n\nFor use with non-interactive elements (illustrations or backgrounds)"
+      },
+      "Sky–600": {
+        "value": "#1f7ac4",
+        "type": "color",
+        "description": "Accessibility: AA (used w/ white)\n\nDefault state of CTA elements (primary/secondary/tertiary and text links)"
+      },
+      "Sky–700": {
+        "value": "#1d67a3",
+        "type": "color",
+        "description": "Accessibility: AA (used w/ white)\n\nHover state of CTA elements (primary/secondary/tertiary and text links)"
+      },
+      "Sky–800": {
+        "value": "#16558a",
+        "type": "color",
+        "description": "Accessibility: AAA (used w/ white)\n\nUsed for pressed state of CTA elements (primary/secondary/tertiary and text links)"
+      }
+    },
+    "Secondary": {
+      "Salmon–500": {
+        "value": "#f06e61",
+        "type": "color",
+        "description": "Accessibility: n/a\n\nFor use with non-interactive elements (illustrations or backgrounds)"
+      },
+      "Salmon–600": {
+        "value": "#ce4a3e",
+        "type": "color",
+        "description": "Accessibility: AA (used w/ white)\n\nDefault state of error messaging"
+      },
+      "Salmon–700": {
+        "value": "#ad3b31",
+        "type": "color",
+        "description": "Accessibility: AA (used w/ white)\n\nHover state (if necessary)"
+      },
+      "Salmon–800": {
+        "value": "#962d24",
+        "type": "color",
+        "description": "Accessibility: AAA (used w/ white)\n\nPressed state (if necessary)"
+      },
+      "Christmas–500": {
+        "value": "#7cc694",
+        "type": "color",
+        "description": "Accessibility: n/a\n\nFor use with non-interactive elements (illustrations or backgrounds)"
+      },
+      "Christmas–600": {
+        "value": "#2b8748",
+        "type": "color",
+        "description": "Accessibility: AA (used w/ white)\n\nDefault state of success messaging"
+      },
+      "Christmas–700": {
+        "value": "#1e6e37",
+        "type": "color",
+        "description": "Accessibility: AA (used w/ white)\n\nHover state (if necessary)"
+      },
+      "Christmas–800": {
+        "value": "#125c2a",
+        "type": "color",
+        "description": "Accessibility: AAA (used w/ white)\n\nPressed state (if necessary)"
+      },
+      "Sunset–500": {
+        "value": "#f6bd4e",
+        "type": "color",
+        "description": "Accessibility: n/a\n\nFor use with non-interactive elements (illustrations or backgrounds)"
+      },
+      "Sunset – 600": {
+        "value": "#b26212",
+        "type": "color",
+        "description": "Accessibility: AA (used w/ white)\n\nDefault state of warning messaging"
+      },
+      "Sunset–700": {
+        "value": "#914c07",
+        "type": "color",
+        "description": "Accessibility: AA (used w/ white)\n\nHover state (if necessary)"
+      },
+      "Sunset–800": {
+        "value": "#803d0d",
+        "type": "color",
+        "description": "Accessibility: AAA (used w/ white)\n\nPressed state (if necessary)"
+      }
+    },
+    "Neutral": {
+      "100": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Formerly named \"Cotton\"\n\nAccessibility: N/A\n\nFor use with non-interactive elements and backgrounds only"
+      },
+      "200": {
+        "value": "#f8fafc",
+        "type": "color",
+        "description": "Formerly named \"Snow\"\n\nAccessibility: N/A\n\nFor use with non-interactive elements and backgrounds only"
+      },
+      "300": {
+        "value": "#e5eaef",
+        "type": "color",
+        "description": "Formerly named \"Ice\"\n\nAccessibility: N/A\n\nFor use with non-interactive elements, backgrounds, and dividers"
+      },
+      "400": {
+        "value": "#8295ad",
+        "type": "color",
+        "description": "Formerly named \"Fog\"\n\nAccessibility: 3:1 AA (used w/ white)\n\nFor use with form field strokes and non-interactive elements only"
+      },
+      "500": {
+        "value": "#647891",
+        "type": "color",
+        "description": "Formerly named \"Clouds\"\n\nAccessibility: 4.5:1 AA (used w/ white)\n\nFor use with text"
+      },
+      "600": {
+        "value": "#4a6382",
+        "type": "color",
+        "description": "Formerly named \"Storm\"\n\nAccessibility: 6:1 AA (used w/ white)\n\nFor use with text"
+      },
+      "700": {
+        "value": "#2e4664",
+        "type": "color",
+        "description": "Formerly named \"Hurricane\"\n\nAccessibility: 9.5:1 AAA (used w/ white)\n\nFor use with text"
+      },
+      "800": {
+        "value": "#141e2b",
+        "type": "color",
+        "description": "Formerly named \"Deep sea\"\n\nAccessibility: 16.5:1 AAA (used w/ white)\n\nFor use with text"
+      }
+    },
+    "Specialty": {
+      "Sky Blue Dark": {
+        "value": "#1f88de",
+        "type": "color"
+      },
+      "Sky Blue Light": {
+        "value": "#59a5e2",
+        "type": "color"
+      },
+      "Christmas Dark": {
+        "value": "#6bbb85",
+        "type": "color"
+      },
+      "Christmas Light": {
+        "value": "#91cea5",
+        "type": "color"
+      },
+      "Salmon Dark": {
+        "value": "#e36357",
+        "type": "color"
+      },
+      "Salmon Light": {
+        "value": "#f98d82",
+        "type": "color"
+      },
+      "Sunset Dark": {
+        "value": "#ecb241",
+        "type": "color"
+      },
+      "Sunset Light": {
+        "value": "#fdcb6b",
+        "type": "color"
+      }
+    },
+    "Transparent": {
+      "Sky": {
+        "value": "#3a98e533",
+        "type": "color"
+      },
+      "Chrismass": {
+        "value": "#7cc69433",
+        "type": "color"
+      },
+      "Natural": {
+        "value": "#64789133",
+        "type": "color"
+      },
+      "Salmon": {
+        "value": "#f06e6133",
+        "type": "color"
+      },
+      "Sunset": {
+        "value": "#f6bd4e33",
+        "type": "color"
+      }
+    }
+  }
+}
